@@ -3,3 +3,6 @@ hello world
 Putting another line
 
 Adding third line from local edit
+
+Adding another line from the cloud
+
